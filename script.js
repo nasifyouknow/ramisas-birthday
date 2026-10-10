@@ -9,10 +9,10 @@
 */
 
 const PLACES = [
-  "The Garden Bistro",
-  "Skyline Rooftop",
-  "Olive & Thyme",
-  "Our Favorite Café"
+  "Chef's Table Courtside",
+  "BOHO",
+  "C'Paris",
+  "WAZA"
 ];
 
 const TIMES = {
